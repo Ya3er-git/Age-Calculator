@@ -71,3 +71,17 @@
     background-size: 30px;
     cursor: pointer;
 }
+
+#result {
+    font-size: 14px;
+}
+
+#result span:nth-child(1) {
+    color: #78cfbc;
+}
+#result span:nth-child(2) {
+    color: #bed2d8;
+}
+#result span:nth-child(3) {
+    color: #5ea4f5;
+}
